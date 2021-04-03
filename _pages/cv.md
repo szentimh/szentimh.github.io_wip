@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/assets/images/hannah_szentimrey_resume.pdf" width="100%" />
 
 Education
 ======
