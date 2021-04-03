@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning for Congestion Management and Routability Prediction within FPGA Placement"
-excerpt: "This project involved using machine learning to help with the FPGA placement problem. <br/><img src='/images/cong_heatmap_models.svg'>"
+excerpt: "This project involved using machine learning to help with the FPGA placement problem. <br/><img src='/assets/images/cong_heatmap_models.svg'>"
 collection: portfolio
 ---
 
@@ -47,7 +47,7 @@ results in both the placement and routing steps heavily relying on each other.
 In the diagram, it can be seen that
 different wires are allocated and connected to ensure the necessary components are connected.
 
-<img src='/images/fpga_placement_routing.svg'>
+<img src='/assets/images/fpga_placement_routing.svg'>
 
 Because of all of the constraints and other considerations during FPGA placement,
 it is a very difficult problem that can take hours or days to find a placement for large circuit designs. This slows down
@@ -82,7 +82,7 @@ which is an image of the congestion throughout the FPGA. The DLRoute model outpu
 can be routed or not in the next step. The DLManage model outputs an array of inflation values to inflate the components
 by to spread them out.
 
-<img src='/images/cong_heatmap_models.svg'>
+<img src='/assets/images/cong_heatmap_models.svg'>
 
 In order to get the data to train these models, an FPGA placer was used to generate placements. There were 372 circuit 
 benchmarks that are used as input for the placer. The placer takes the benchmarks and generates a placement as the output.

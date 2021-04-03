@@ -1,6 +1,6 @@
 ---
 title: "Butterfly Identification App"
-excerpt: "This project involved developing a mobile app to identify the species of a butterfly from an image. <br/><img src='/images/UI_for_luna_app.png'>"
+excerpt: "This project involved developing a mobile app to identify the species of a butterfly from an image. <br/><img src='/assets/images/UI_for_luna_app.png'>"
 collection: portfolio
 ---
 
@@ -44,7 +44,7 @@ the results of the model are obtained, the rest of the app behaves the exact sam
 
 An example of the user interface of the app can be seen below.
 
-<img src='/images/UI_for_luna_app.png'>
+<img src='/assets/images/UI_for_luna_app.png'>
 
 Impact
 ======
@@ -56,12 +56,12 @@ take the prototype we provided and develop it further.
 
 The Google Play Store page for the app can be seen below.
 
-<img src='/images/Luna_ID_play_store_listing.png' height=500px>
+<img src='/assets/images/Luna_ID_play_store_listing.png' height=500px>
 
 Code/Demo/Further Information
 ======
 The following video is a demonstration of how the final version of the app worked.
 
-<iframe style="width:100%; height:500px" src="/images/Luna_ID_demo.mp4" frameborder="0" allowfullscreen="true"></iframe>
+<iframe style="width:100%; height:500px" src="/assets/images/Luna_ID_demo.mp4" frameborder="0" allowfullscreen="true"></iframe>
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Disease, Epidemics and Vaccination Effectiveness through Agent Based Modelling"
-excerpt: "This project involved using computational modelling to look at how vaccines affect disease spread. <br/><img src='/images/standard_disease_spread.gif'>"
+excerpt: "This project involved using computational modelling to look at how vaccines affect disease spread. <br/><img src='/assets/images/standard_disease_spread.gif'>"
 collection: portfolio
 ---
 
@@ -59,11 +59,11 @@ subplot, and at step 25 in the right subplot. During the first step, a single pe
 As the simulation for the model progresses, the disease spreads and causes more people to become sick or pass away.
 The simulation ends once there are no more people sick with the disease to continue its spread.
 
-<img src='/images/model_at_diff_stages.svg' class='center'>
+<img src='/assets/images/model_at_diff_stages.svg' class='center'>
 
 A larger simulation can be seen in the animation below.
 
-<img src='/images/standard_disease_spread.gif' class='center'>
+<img src='/assets/images/standard_disease_spread.gif' class='center'>
 
 A series of simulations were executed with varying vaccination rates among the population to test herd immunity. 
 For every simulation run, the same disease parameters were used and the only parameter being adjusted is 
@@ -74,9 +74,9 @@ can be seen that for this particular disease, the number of people who die as a 
 increase drastically when the vaccination rate decreases to be below 88%. This means that the vaccination rate
 should be at least 88% to ensure herd immunity is present.
 
-<img src='/images/heard_immunity_course.svg' class='center'>
+<img src='/assets/images/heard_immunity_course.svg' class='center'>
 
-<img src='/images/heard_immunity_fine.svg' class='center'>
+<img src='/assets/images/heard_immunity_fine.svg' class='center'>
 
 Impact
 ======
