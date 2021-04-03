@@ -7,6 +7,7 @@ redirect_from:
   - /cv
 ---
 
+{% include base_path %}
 
 <embed src="/images/hannah_szentimrey_resume.pdf" width="100%" />
 
