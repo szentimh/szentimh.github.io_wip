@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
-{% include base_path %}
+
+<embed src="/images/hannah_szentimrey_resume.pdf" width="100%" />
 
 
 Education
