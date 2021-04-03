@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Portfolio"
-    url: _pages/portfolio/
+    url: /portfolio/
 
   - title: "Resume"
-    url: _pages/cv/
+    url: /cv/
         
   - title: "Publications"
-    url: _pages/publications/
+    url: /publications/
 
   - title: "Teaching"
-    url: _pages/teaching/    
+    url: /teaching/    
