@@ -3,6 +3,8 @@ title: "Machine Learning for Congestion Management and Routability Prediction wi
 excerpt: "This project involved using machine learning to help with the FPGA placement problem. <br/><img src='/assets/images/cong_heatmap_models.svg'>"
 collection: portfolio
 ---
+Look at this link for how to set-up portfolio items (like for images and such): 
+https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_portfolio/baz-boom-identity.md
 
 Role
 ======
